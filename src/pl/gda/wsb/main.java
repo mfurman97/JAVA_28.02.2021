@@ -1,0 +1,9 @@
+package pl.gda.wsb;
+
+public class main {
+
+    public static void main(String[] args) {
+        System.out.print("Hello World");
+
+    }
+}
